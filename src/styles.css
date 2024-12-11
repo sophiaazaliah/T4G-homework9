@@ -1,0 +1,19 @@
+#heading{
+margin: 20px auto;
+width: 60%;
+padding:20px;
+}
+
+
+.paragraph{
+ margin-top: 20px;   
+}
+
+.para{
+background-color: rgb(205, 22, 22);
+color: aliceblue;
+margin: 15px auto;
+padding: 20px;
+border-radius: 5px;
+width: 50%;
+}
